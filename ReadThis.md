@@ -1,7 +1,7 @@
 ##run_analysis.R
 This script prepare tidy data frame that can be used for later analysis from the Human Activity Recognition Using Smartphones Data Set (see a Codebook.md for more information).
 
-The script was writen by Andrey Kuznetsov as a project of the Coursera's Getting and Cleaning Data Course.
+#The script was writen by Andrey Kuznetsov as a project of the Coursera's Getting and Cleaning Data Course.
 
 This R script process data from the UCI HAR Dataset that containing in three text files:
 
